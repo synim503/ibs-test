@@ -1,4 +1,4 @@
-package org.ibs;
+package org.ibs.ui;
 
 import org.ibs.manager.DriverManager;
 import org.ibs.manager.PageManager;
